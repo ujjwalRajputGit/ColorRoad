@@ -291,7 +291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _property:
-    Color: 0
+    Color: 2
   _redMaterila: {fileID: 2100000, guid: 7b884a495b92a634c82ee764aebec69c, type: 2}
   _greenMaterila: {fileID: 2100000, guid: 0ff4dd8145d8c3743b132f52c76b3576, type: 2}
   _blueMaterila: {fileID: 2100000, guid: 5a9d47aeb86b3da458a0fbbdcae20352, type: 2}
